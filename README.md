@@ -1,4 +1,4 @@
-# Deepl Learning based Time-series-prediction-with-grid-optimiization-of-Hyperparameters
+# Deep Learning based Time-series-prediction-with-grid-optimiization-of-Hyperparameters
 Time-series prediction, with grid optimiization of Hyperparameters
 
 This is time-series prediction work. In this work, we have a set of experiments starting by using different models, on various parameters, with different optimizers for each experiment. To do all these experiments together in single run. This code is divided into three layers. In level 1, we adjust the optimizers. In level 2, we input the specific parameter to be output, and in level 3, we implement all the models which need to be tested for this experiment. Level 0 is the code which is the starting point, and it's the only code which we have to run to complete this experiment.
