@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated publication."
+title: "Water Quality Prediction for Smart Aquaculture Using Hybrid Deep Learning Models"
+type: software
+authors:
+  - family-names: Kozhiparamban
+    given-names: Rasheed Abdul Haq
+  - family-names: Harigovindan
+    given-names: V. P.
+version: 1.0.0
+date-released: 2022-06-01
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Kozhiparamban
+      given-names: Rasheed Abdul Haq
+    - family-names: Harigovindan
+      given-names: V. P.
+  title: "Water Quality Prediction for Smart Aquaculture Using Hybrid Deep Learning Models"
+  journal: "IEEE Access"
+  year: 2022
+  volume: 10
+  pages: "60078-60098"
+  doi: 10.1109/ACCESS.2022.3180482
+repository-code: "https://github.com/rasheedhaq/Time-series-prediction-with-grid-optimiization-of-Hyperparameters"
